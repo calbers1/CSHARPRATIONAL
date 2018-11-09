@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*pair programmed by Connor Albers and Caleb Herring*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Rational
 {
-    class MutableRational
+    public class MutableRational
     {
         private int numerator;
         private int denominator;
@@ -175,7 +176,7 @@ namespace Rational
             denominator = denominator / GCD;
 
         }
-        public bool equals(Object obj)
+        public bool AreEqual(Object obj)
         {
             MutableRational rValue = (MutableRational)obj;
             bool result = false;

@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*pair programmed by Connor Albers and Caleb Herring*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Rational
 {
-    class ImmutableRational
+   public class ImmutableRational
     {
         private int numerator;
         private int denominator;

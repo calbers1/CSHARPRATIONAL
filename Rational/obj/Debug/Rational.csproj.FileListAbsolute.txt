@@ -4,3 +4,9 @@ c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\bin\Debug
 c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\bin\Debug\Rational.pdb
 c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\obj\Debug\Rational.exe
 c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\obj\Debug\Rational.pdb
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\bin\Debug\Rational.exe.config
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\bin\Debug\Rational.exe
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\bin\Debug\Rational.pdb
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\obj\Debug\Rational.csproj.CoreCompileInputs.cache
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\obj\Debug\Rational.exe
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\obj\Debug\Rational.pdb

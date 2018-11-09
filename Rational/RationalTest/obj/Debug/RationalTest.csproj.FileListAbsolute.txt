@@ -1,0 +1,16 @@
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\obj\Debug\RationalTest.csprojResolveAssemblyReference.cache
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\obj\Debug\RationalTest.csproj.CoreCompileInputs.cache
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\RationalTest.dll
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\RationalTest.pdb
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Rational.exe
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Rational.pdb
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Rational.exe.config
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\obj\Debug\RationalTest.dll
+D:\Users\conno\OneDrive\Documents\GitHub\CSHARPRATIONAL\Rational\RationalTest\obj\Debug\RationalTest.pdb
