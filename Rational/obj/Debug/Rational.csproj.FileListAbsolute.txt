@@ -1,0 +1,6 @@
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\obj\Debug\Rational.csprojResolveAssemblyReference.cache
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\bin\Debug\Rational.exe.config
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\bin\Debug\Rational.exe
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\bin\Debug\Rational.pdb
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\obj\Debug\Rational.exe
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Rational\obj\Debug\Rational.pdb
